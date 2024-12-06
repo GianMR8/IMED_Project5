@@ -41,26 +41,36 @@ ol li{
 h5{
     color: black;
     text-align: center;
-    font-style: oblique;
 }
 
 h4{
     color: black;
-    text-align: left;
-    text-decoration-line: underline;
+    text-align: center;
+    text-decoration: underline;
 }
 
 h3{
     color: black;
-    text-align: left;
-    text-decoration: underline;
+    text-align: center;
 }
 
 h6{
     color: black;
     float: inline-start;
-    font-style: italic;
     width: 100px;
     height: 0px;
     font-size: larger;
+}
+
+caption{
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+    font-family: "indie-oswald-regular";
+}
+
+h1{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
 }
