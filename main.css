@@ -63,15 +63,12 @@ h6{
     font-size: larger;
 }
 
-caption{
-    text-align: center;
-    color: black;
-    font-size: xx-large;
-    font-family: "indie-oswald-regular";
-}
-
 h1{
     color: black;
     text-align: center;
-    text-decoration: underline;
+}
+
+h2{
+    color: black;
+    text-align: center;
 }
