@@ -53,6 +53,7 @@ h4{
 h3{
     color: black;
     text-align: center;
+    text-decoration: solid;
 }
 
 h6{
@@ -69,6 +70,11 @@ h1{
 }
 
 h2{
+    color: black;
+    text-align: center;
+}
+
+h4{
     color: black;
     text-align: center;
 }
