@@ -11,7 +11,7 @@ body{
 }
 
 table{
-    font-family: "indie-oswald-regular";
+    font-family: "Oswald", sans-serif;
     font-weight: 400;
     font-style: normal;
     text-align: center;
@@ -25,7 +25,7 @@ caption{
     text-align: center;
     color:black;
     font-size: xx-large;
-    font-family: "indie-oswald-regular";
+    font-family: "Oswald", sans-serif;
 }
 
 footer{
@@ -44,40 +44,30 @@ h5{
     font-style: italic;
 }
 
+
 h4{
     color: black;
     text-align: center;
     text-decoration: underline;
 }
 
-h3{
-    color: black;
-    text-align: center;
-    text-decoration: solid;
-}
-
-h6{
-    color: black;
-    float: inline-start;
-    width: 100px;
-    height: 0px;
-    font-size: larger;
-}
-
-h1{
-    color: black;
-    text-align: center;
-}
-
 h2{
     color: black;
     text-align: center;
+    text-decoration: solid;
+    font-size: larger;
 }
 
-h4{
+
+h1{
+    font-family: "Oswald", sans-serif;
+    font-size: larger;
+    font-style: normal;
+    font-weight: 400;
     color: black;
-    text-align: center;
 }
+
+
 ul {
     list-style-type: none;
     margin: 0;
